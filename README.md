@@ -53,11 +53,4 @@
 
   <p>Este projeto está licenciado sob a <a href="LICENSE">Licença MIT</a>, o que significa que você pode usá-lo livremente, modificar e distribuir conforme necessário.</p>
 
-  <h2>Contato</h2>
-
-  <p>Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:</p>
-
-  <ul>
-    <li>Email: <a href="mailto:seu.email@example.com">cloudflare.ddos21@gmail.com</a></li>
-
   <p>Divirta-se tocando bateria virtualmente! 🥁🎶</p>
