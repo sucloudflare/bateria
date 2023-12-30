@@ -49,6 +49,9 @@
     <li>Envie um pull request para revisão.</li>
   </ol>
 
+  <h2>img</h2>
+  <img src='Captura.png' alt=''>
+
   <h2>Licença</h2>
 
   <p>Este projeto está licenciado sob a <a href="LICENSE">Licença MIT</a>, o que significa que você pode usá-lo livremente, modificar e distribuir conforme necessário.</p>
