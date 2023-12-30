@@ -58,8 +58,6 @@
   <p>Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:</p>
 
   <ul>
-    <li>Email: <a href="mailto:seu.email@example.com">seu.email@example.com</a></li>
-    <li>Twitter: <a href="https://twitter.com/seu_usuario" target="_blank">@seu_usuario</a></li>
-  </ul>
+    <li>Email: <a href="mailto:seu.email@example.com">cloudflare.ddos21@gmail.com</a></li>
 
   <p>Divirta-se tocando bateria virtualmente! 🥁🎶</p>
