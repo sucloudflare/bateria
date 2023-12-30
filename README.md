@@ -1,5 +1,3 @@
-# bateria
-
  <h1>Bateria Virtual</h1>
 
   <p>Bem-vindo à Bateria Virtual, uma aplicação web interativa que permite aos usuários tocar uma variedade de sons de bateria com o teclado do computador ou criar composições musicais personalizadas.</p>
